@@ -6,7 +6,7 @@ body, h1, p, img {
 
 body {
     font-family: 'Arial', sans-serif;
-    background: url('https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif') center/cover fixed no-repeat; /* Replace 'your-background.gif' with the path to your GIF */
+    background: url('https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif') 
 }
 
 header {
